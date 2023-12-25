@@ -1,0 +1,26 @@
+{
+  "name": "Marguerite Doyle",
+  "age": 60,
+  "address": {
+    "street": "Vini Drive",
+    "city": "Buowuger",
+    "state": "NV",
+    "zip": "45348"
+  },
+  "contact": {
+    "phone": "(306) 795-6201",
+    "servicePhone": "800245171"
+  },
+  "birthday": "1960-06-24T01:28:25.071Z",
+  "ip": "64.76.225.22",
+  "foo": "bar",
+  "profile": {
+    "about": "Ulegwum ziwo iwu fewokec zowefnuk mioho ubedicav holonuja ekiraur paokmo radjijvac mu zi. Uvitogca va pi satko bem urbuka silul mesgap lotbe oko fenaz ictecib jevleg pewvez oz ecbak. Vuzho holita ic ruab re si pujul macpaanu imeres wijaza salaw zakemoluf dozba udziphu gi.",
+    "bio": "Kepukkin vub seaca tatbuija ap tafra ti pizunki wuc pihuk ras re alu. Meeti relvufu kilojfok colnug ovsijuh seg ucauk papgucfe izvogret vef kopab cecgugaz goem ce derke woslurafu. Av riccodwaz ki kevpudfi gatmomwor budewo ejupucij usji zed hahutipo obohisze nad lofulob."
+  },
+  "apiKey": "afed32882a7c8d087cc838fd16e52f33f2f04109996298d684d292b3cf6814c0",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
