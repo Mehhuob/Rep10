@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Wong",
+  "age": 55,
+  "address": {
+    "street": "Ogozi Circle",
+    "city": "Wedcokte",
+    "state": "MI",
+    "zip": "14675"
+  },
+  "contact": {
+    "phone": "(209) 410-2421",
+    "servicePhone": "800915949"
+  },
+  "birthday": "1979-12-06T04:32:09.075Z",
+  "ip": "136.61.92.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Eh ti tuk heusgu fopgu tosis pidocra sefbib wokez wused cortec alu bewwiza id bukgo. Eve bu len ic war luowu ebobu tibra tu vodu siepzin cu cunima puf van sovdimgok rupi dotniv. Moero aluinego raakju wuvpi wapawen cepkijjog amepe admeoh enacu akcumat tunostij beha defotpi veb noadhuv ga vo. Ciatcah ojeane fuhuvi nacul pipues hic muvo us kupeot tudu ge zucke bosij racunte guclog rivi dat lecpeuto. Sem zi vus suh dubpiej sizeja esjaken je dotokpi ce wot leet.",
+    "bio": "Caw era vagohmal obo ucezola nud faf kivouk rulzo touwazi rusito povifban am. Fedca kefeaka pabefdum dusum orur densilus gu utamin wurno soori ocluv soure. Perenu mek ijfi odi ilgi tivomse dawpez hived ajjacel ice hodmik kour hobkunur lob ziv. Efuwu abtowvol tuh wo avpez amo pob vi mehmiwac edoavgo duk naetlo wizsussa caldacdiv kojsiwtiz sited berkewkol vekoba. Nirasduf vitokomi buvdus wusnep do gug to po nobog nuhutdus biscaw cifiza aplukhek odvenced."
+  },
+  "apiKey": "ad0629e154ce79d2d6b88b89fc5023ea915622bbf407b7c7409180774c27cd8a",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
