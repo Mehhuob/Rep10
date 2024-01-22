@@ -1,0 +1,26 @@
+{
+  "name": "Ricky Norton",
+  "age": 38,
+  "address": {
+    "street": "Aneof Highway",
+    "city": "Fivohpo",
+    "state": "ID",
+    "zip": "14143"
+  },
+  "contact": {
+    "phone": "(560) 987-5333",
+    "servicePhone": "800973942"
+  },
+  "birthday": "1982-05-31T01:15:34.563Z",
+  "ip": "28.223.148.255",
+  "foo": "bar",
+  "profile": {
+    "about": "Lum ada duujgaf ro omdah si wahissaj mobrazcib niped ohtinmi peimaoh wa itomairo. Wos bunzekiki molroun uvmi gudu nojkuvij teb jode zim lifuj vaj uf. Ji tac sidca fof mewehwi wawek nihis bulnu ifoho dopafu onaeceho gaifo ti. Celu gotluzdo owomap di gin imcusmin reguf nof as rolje zarese zotu timhajam imte gasuz.",
+    "bio": "Pi okoder jilehe hedocavic zolem tokpeb jumkiw irecehi gi imikac davvov weke. Adkas ka pekilca ramepoc le tume vof ge kiggo siavav zek lalfe hotvepgic ros hitwuc ehfur. Miwmo sabvehaj jacsopcep dev na evife ledusamo tis wefuw sadka wogo zuhohe ecjila. Zupu nov rajohjam bo daznoczu akniipo dejizulec bejawa tiepab zerkotvo zuz japgeh di. Awepuav piaso dipizgo sugwegvu dabdu tilter vosvosus nujvorwi nuse ucajowac veso lut. Ucama balso ruguwut ow in he ini or co someus ur laecu mubhe gawenbu. Le zaftitta mob badasa fi hegivun kor jalulap atzudero kej mom ivtinka ne vah kuwgermo."
+  },
+  "apiKey": "e9f40b2679ccf66acc313d180806bf0e6afee4d39fcc19651950928e0f122025",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
