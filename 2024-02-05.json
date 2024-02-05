@@ -1,0 +1,26 @@
+{
+  "name": "Mattie Gardner",
+  "age": 46,
+  "address": {
+    "street": "Jajtah Mill",
+    "city": "Zutvina",
+    "state": "ID",
+    "zip": "95648"
+  },
+  "contact": {
+    "phone": "(746) 331-5509",
+    "servicePhone": "800791519"
+  },
+  "birthday": "1996-04-24T04:40:17.604Z",
+  "ip": "70.90.73.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Dodu hucta jaz pejuzbid junuje piremsa koriwa im ivoke miallu dudte alu vi guzuk. Unsakut bawecfi bof ri ru nesorsul zu evinu do vevko hekoc upa ile gihuk ospak pa. Fapetada di jerac mi mi bejuc hod wodrossa lahnuaju fuafo upu em.",
+    "bio": "Ahpov dan goktim te me waksi ucobepi ivo fautiec gapahmiz vi ermur avu ahiz dusorleh. Ufom ovadabga vesnij gomima curluzem cedibzin awo nudpoh fespugvul lipji matoga na obo. Seb demad cokut uro rav vaoji vepve bumek ze odwuel juplithof zonap lafzabhi efoiroho ma buwgi rengap hicij."
+  },
+  "apiKey": "b3a978e846bb22213f3c20932d5e7f4f96a7181fd066f438b0620fec4264e1df",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
