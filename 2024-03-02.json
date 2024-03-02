@@ -1,0 +1,26 @@
+{
+  "name": "Henrietta Tate",
+  "age": 22,
+  "address": {
+    "street": "Rouna Circle",
+    "city": "Kurdaisi",
+    "state": "NC",
+    "zip": "70387"
+  },
+  "contact": {
+    "phone": "(950) 238-2178",
+    "servicePhone": "800118246"
+  },
+  "birthday": "1968-11-05T10:10:20.094Z",
+  "ip": "39.66.121.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Fo gap bomnegwog jop pof mir pi gewgabu hobir ulanoala ha hafa tig rew pu ha vuja. Dilmeg av fe pow oliuh ulte hetgajmu cagzuvjov haced fafdal wuvci eturaza. Nouf defaute mufsib fu nu bu makwodbop ijofiwhu oro hizlo tokac tenirba utoli wizsuno def. Uv pedojwug vasworobu fikueta ini lajmon fuke wiw git cov withovzon lupeni cozohde ekewafumi kedmuh ir jihsurja zipgeko. Fav kenbij cefwu wipo vipotapez ejgazme edalepfa tukwider nowmi du larug bicot osedige toopajas apiav zaeteniz keh. Nez du gab gaprazhuw wan tah he wor tid afi ni hija num be la.",
+    "bio": "Ah oko zugomi sa amupfov edipij naci unocuc uh fe jec zoobo velu igipekiz ebtijjut. Dupremo ren gojwu wu mogecu elwo osebi guj ke ruc baggub siw ode igco adkedbaw higfuvje. Huvhenwik ituziti pur junot ad vun vodza jejar seigba meicjak so noli bifepi epna zap hocu ir namobaz."
+  },
+  "apiKey": "3086cf6bbeebd5d7946477a1ef76279bba68e93cd4041662c967cb0dfbee2fd2",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
