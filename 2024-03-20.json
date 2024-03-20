@@ -1,0 +1,26 @@
+{
+  "name": "Marc Chandler",
+  "age": 44,
+  "address": {
+    "street": "Tigdod Grove",
+    "city": "Iczabuj",
+    "state": "WV",
+    "zip": "98913"
+  },
+  "contact": {
+    "phone": "(910) 498-4225",
+    "servicePhone": "800641654"
+  },
+  "birthday": "1966-01-31T09:20:49.392Z",
+  "ip": "132.157.29.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Casuc poovpi de kuvuri sur pu figoj ilpul nu oh zoj kivzes fe rat fe. Veh rawesef muewiluk lud su za naw voguc bohpoh pe sewfucob zec lorabgi cihah sovusewil ugvo dudote. Jeiries ladgadah ej guvegki mun ci vevejwa vildanen nitiz ver jaoge sacake datwanoc ve ce bulwupug okupook.",
+    "bio": "Kone kojbisec vahufiin ofeatice kuppoka ozamirug pewdoj re gilalmed elnep kiccos bealosi. Ogoh ev ce coh pep mer taw su hucu ur wukcet obu imuton fil koke koctaej wefpizpoh fauhokik. Senwumowo ca wumbiva se niz ahobolib ene wujegaz tac pulagbi fa fidehwu. Secfalcip cos ridoh ohoaga uzsuhoh mihow uwenisbu upa keodewu reabcu dab tef lukkasi alodubba."
+  },
+  "apiKey": "41abf116d2cacb3e2a641b817e255c7f8d4dadcb0112310c2a0158ca4aab6b4b",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
