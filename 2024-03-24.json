@@ -1,0 +1,26 @@
+{
+  "name": "Jean Young",
+  "age": 48,
+  "address": {
+    "street": "Fiwak Loop",
+    "city": "Vulaga",
+    "state": "IL",
+    "zip": "07235"
+  },
+  "contact": {
+    "phone": "(983) 955-5156",
+    "servicePhone": "800485251"
+  },
+  "birthday": "1991-09-04T11:44:03.866Z",
+  "ip": "15.56.197.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Raf ceim kecabfe upta dena wowabuni lulofmul me gibeka acrurum ohe cat tu ib gadam. Alaob cese zajwovak moegeed baeho edufevbev sefahoc faf rosessu juzoz nowwo la gerewliw bimit. Gic jilevdum vem sut fevformo jacuugo ahku dusivipe ovena tirlufa fag saber me ho ril pokijcuf nigge. Hegizuzek ki imrepzub cuho tefide vuse uzokep fes mip ip rafitimu gesov pit tufifpef gu rufubo. Bozozdu juszibwab fi liglivdif hacibel wunifu nurvi zidal rici ob ohluze fatukwar akiwigab zeswowe. Ginarit gahtop zac na barejag so tupjan ovzuvse huwputu mappebop nuwof udvupoz pefedda to lazupso zitpu wojugeuf naf.",
+    "bio": "Sirehpuz lo lumalus hivov ugimvo buppeuzi cu jeojre ut wapozni tul loksugde mefo pibhof oceerhug guehe gof. Tezluddu ulkag nisuve segesuv sego na piwfujsi bel soc nus eldok et pa ipuesi ownab kagpamo. Ulivuvo namaola wamoptu kur tawos newmekgo suur jajewmu azanuwic zuja zum cu. Aszo micvezzof bokal sudsipe aji ijo dabew tomoh sa sinu id lad op wej. Zesgunguh camutiru ritijif tupbapoz pun unru basu nuklun udse pooli gewni ban lepalvip if kovesgug. An ragoinu vahadob ne se emo pik zi ihumuf uzuada roor tuopza zejtelad ubfo zuga seiwu jeger gur."
+  },
+  "apiKey": "a68757377f000002fc9537b75c1bad69970b08f6ab1e9e8cc12d6be1d4a6763d",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
