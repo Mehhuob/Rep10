@@ -1,0 +1,26 @@
+{
+  "name": "Jared Nichols",
+  "age": 24,
+  "address": {
+    "street": "Rizwab Street",
+    "city": "Neneluroc",
+    "state": "KY",
+    "zip": "08878"
+  },
+  "contact": {
+    "phone": "(943) 546-7073",
+    "servicePhone": "800168924"
+  },
+  "birthday": "1968-05-30T08:19:22.005Z",
+  "ip": "165.235.62.227",
+  "foo": "bar",
+  "profile": {
+    "about": "Je guvto vohza rofpuh huthoav diviwla wumjol wehparko hahobif luwvulin ro bami. Tiajo daca kof ifuhu nafiuco bidben hekho uwel nenup ce dir newevrar. Zuzif vip zoh azefip so fuuzu hibedlir juh kehraili asavu bu hajafto fiwgosiw haduov cusewwi lef oteri zate.",
+    "bio": "Opsuh bes si owniz vuhoz re tol tinorgo kepvig woc sezasni zajto hedzo kud. Wusolgo ki tutum depser kiz ro ebago metbodag ivinej ece tikli gatugweb utlu menvak go natuvmip. Dagfepa belhuwa mab sofbuh lihere isasujbuk ibeispe rizgus vudal bak mic gipuri nijuda."
+  },
+  "apiKey": "ec0f4e51f4fd51788efbc0a371f0122fccc04cbe50f52e06e76907a5f845d30b",
+  "currency": {
+    "code": "ALL",
+    "name": "Albania Lek"
+  }
+}
