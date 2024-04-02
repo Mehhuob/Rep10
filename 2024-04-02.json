@@ -1,0 +1,26 @@
+{
+  "name": "Amelia Flowers",
+  "age": 51,
+  "address": {
+    "street": "Wezsoj Place",
+    "city": "Abumusu",
+    "state": "AZ",
+    "zip": "90282"
+  },
+  "contact": {
+    "phone": "(929) 647-3251",
+    "servicePhone": "800398978"
+  },
+  "birthday": "1972-06-20T07:40:42.258Z",
+  "ip": "65.126.21.27",
+  "foo": "bar",
+  "profile": {
+    "about": "Mi hazim fezbu keje gis edig ja gicedor hipev ewwous cakfer piccegne zocwa. Lounor ijoc eco uneje on pa jutoci nivcupi leb sa lewpi vimron feiwuun fahup so. Jaenvaw rurpuc zo cil sul dazmo jajic vif neiccir ru isawijhuf hedoj wud.",
+    "bio": "Ekileh hacip nolsuf jowlov vek gigter wi jugepa moug visah pu kafsag vede kot wod jobliuk lownutip legkokezu. Mev udgo cebbo usmu kir ko gofvegsu acwu jucjumut edegek lic ekze mu jetwi vip. Coliho bur ej epwe edava ku methe rikrobsas durib rihzelot uzeje wut muka dovfaf. Jem lolcotka nusruuc hegduz umirav hitcecruk uma huti ze bon daeboho pe."
+  },
+  "apiKey": "db274b38d38bde7cdc5eef491142c1ce38649c57814b194bddf68a669a5ab380",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
