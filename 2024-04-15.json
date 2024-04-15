@@ -1,0 +1,26 @@
+{
+  "name": "Helena Walters",
+  "age": 48,
+  "address": {
+    "street": "Bitahu Square",
+    "city": "Jisfeus",
+    "state": "NY",
+    "zip": "55821"
+  },
+  "contact": {
+    "phone": "(511) 638-2133",
+    "servicePhone": "800618372"
+  },
+  "birthday": "2000-05-03T05:20:21.470Z",
+  "ip": "54.29.24.113",
+  "foo": "bar",
+  "profile": {
+    "about": "Dev wacwiniw kawpeb fe doc in luki opojud inzutnas gumnipug unjinhub futaf. Soabalun bulelduk miveh gun as kovzap et kugtuhkej ledsi vujo zewno jikposus ze tekoman. Vaz ic te koctit foh hegec nafkuuw kiaheup sutojzi luj ehdine ulpo kaohi cuijpa vin wuopetu uja.",
+    "bio": "Sir si bez opmevec cuteka ne kaf ovkagi piirso ku zebikuw fublup. Pudva tete aponafji ohaagu vogefsog zoz dehaz iru soglojrib ivma vigem nucjimgel. Ibep hoj gawwudmu jud mevipto nevagun jiga jahekaz ubidi bemwelmur caz fe zocmaf liulu opireebu gik ogicuare apawuwzuw. Ejlu jakcu uvzez potot koaw azemocije izomup sa sunum zowrawe ele ifadebaf ziwalon ca ruhav."
+  },
+  "apiKey": "f5a07d4252500691306205b8023f7118481b84c099a066c3dcb65fb96558529e",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
