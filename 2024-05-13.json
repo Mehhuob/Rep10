@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas Scott",
+  "age": 49,
+  "address": {
+    "street": "Ijme Extension",
+    "city": "Apvinu",
+    "state": "PA",
+    "zip": "98644"
+  },
+  "contact": {
+    "phone": "(708) 334-6321",
+    "servicePhone": "800969295"
+  },
+  "birthday": "1962-11-15T01:56:16.733Z",
+  "ip": "68.12.89.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Zil eninobti lodferfo co imedeavo ava haowoto zuenaziv liijzoh cuitokor diukugi nuk ketcik. Riavge ha uraru nemtuza mu mep ded man bo so guluh ravafof. Adjadpo irosos pew ibebeewe sekju ramohte ezaivu fem tom ango nu jipwijmum toaweinu sabkako zu bebgunim. Wajaru mafehga obdedawa si jucsowar fi berejga tisec ciguduaro kofbi bawki ivfad wisna ca kurzolo kipwireh elfom. Ni dad tawekkul mok gobat uleni cubozvil uc ujoregko jijew cabtiwhi fira ozuulu pahod ifcejit geba. Gowuj nufed tacocbit om nabo zani copoc agfiewa popva igi rubambo ne dunbatgir na pardo litaaka semjuh tugizek.",
+    "bio": "Pinew wilno aremehuh tojleref sasuseko lo figweruh wadep sadidin icezohwi pu ba man cekzow. Bum antorfi vi hadez bedpin gerid fofbucawo kize ostugpel hu gozgu sufkeg legpur lof. Cos dozab ri jaaju uda tujuew igfinaw loekawef ipeog cinilti voh zojbeig oho vonziso giaz wid hagtoswi."
+  },
+  "apiKey": "d1ba11f047d663e0d81cb6c2ffabba22dd5e642a6d0b78ae47e0138140bc6349",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
