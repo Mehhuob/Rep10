@@ -1,0 +1,26 @@
+{
+  "name": "Sam Garcia",
+  "age": 51,
+  "address": {
+    "street": "Liwuha Extension",
+    "city": "Lekeplaz",
+    "state": "MS",
+    "zip": "27796"
+  },
+  "contact": {
+    "phone": "(243) 419-5501",
+    "servicePhone": "800911131"
+  },
+  "birthday": "1974-04-02T07:00:34.462Z",
+  "ip": "252.23.45.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Wof diszucku wukepe hovah vob hufvuh dowejede mul duuza mele giudonij da huvauw kepa. Gef vonver naduame afheon mesep enwi wigade uzhotih iwdove gigbijico uvo ud ez po. Pi pekubcih lugihwe ik cim obhizef mivna fo deekomeg fif buzseb sumvo sa pi uzigivew carfic zamwu tef.",
+    "bio": "Daz mihli boful buk pagjo ogdivvod ajuemjo nedsi du pav ranjud nuujbad mu riuw zufuzi kebu edo ze. Luggi gadahi okaho sol pudgu tomecsa folnomen pewocme bafbaj peran sidotzen giricaz miktef ibipe tul ve bubkule. Ube gob escurol uwe hokohte ducu kupcu vuf zu cebjo ocafumes cuc zo taf necid. Sis wotab upci rakmovwi hunka za dud galiho piucpiv apa vipdojbu rujasu foli carufgo. Epon ja odukuhe fe fo vatwej ico asacik joso vilom walen pow wikum catbow woctukvo zefih zoviple. Zitamon go zujderjos pillowda setpav ijlocap dej tiw pewpigjuf nec id obamucip hef museneh. Ja ruhli meneul tourdi hezmuba rerun uv ji ru busodlun hodmar di okgejzac kuhhalej sedca zajseffu."
+  },
+  "apiKey": "a0cbde9ffcdb6ef77f928871da2f78fe97715ecabbdb82aa05e13acb697a3e81",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
