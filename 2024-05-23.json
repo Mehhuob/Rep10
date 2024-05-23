@@ -1,0 +1,26 @@
+{
+  "name": "John Perry",
+  "age": 27,
+  "address": {
+    "street": "Uvizen Trail",
+    "city": "Dorovuju",
+    "state": "KS",
+    "zip": "35608"
+  },
+  "contact": {
+    "phone": "(204) 706-5195",
+    "servicePhone": "800614488"
+  },
+  "birthday": "1981-04-17T07:03:07.924Z",
+  "ip": "75.67.183.73",
+  "foo": "bar",
+  "profile": {
+    "about": "Peic um tocer pizever mi ta tarjilez boh det if cocaz loawo va. Evbefad honuvul vev tafteoh pez tipenkeb eshaeg peher udu da meva mop fasid radaano junim. Iz mufabru cen lijvi fi cu uw kifzihkud owdiaci ba urilepo ofekesela ezucoj ideta eso ibudefaf louhamam te. Ulojo vupjelbad fag igizougo zire karulte luluh zozcotju uzwukin on tiemo olatamvi azulobag cubho erdo jedegbe wuhja. Hicbag pa liisi cit howpet wa mupuhit kerutet nema mi im utaf wot mondu zuz. Vihihik unpezas ceh opaete ekmesad elmone fac tific sik esisusu ofuceat lo buogaedu kuhzizu pogtufu jalun one ogtug. Forero ha tinufot ral rumerin noozo wug zo boz duana pazlejbo fodaz za batfaalo ejmo akarecoma.",
+    "bio": "Pew ustim tufwagto versacaw perasu rowzan caezoiw tut mi meharma ahisepil ce jomgubu curenujak. Mohdis radisdig fu lebvo avi ufawimjod re najo ruluzfe tuemele fivofuk gogiccal setdaenu doklo sojji kowvuheb iva. Cifhe er re odpem sepirow cigib tuce dejigpad imca uj ogu em buzepma pinsigle demkies vujoh goumu pupazu. Bofo behazehi vaivemi go gawir nuno tablac nekwoac faf uwe be jinarhaz ed wezo ig."
+  },
+  "apiKey": "a3cee44d608795e5c8dadf2c55d0a5c6c0346fda7620344d7820719598d134c8",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
