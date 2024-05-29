@@ -1,0 +1,26 @@
+{
+  "name": "Marie Bates",
+  "age": 27,
+  "address": {
+    "street": "Ereta Road",
+    "city": "Tifhuljuf",
+    "state": "DC",
+    "zip": "75493"
+  },
+  "contact": {
+    "phone": "(220) 581-5204",
+    "servicePhone": "800474447"
+  },
+  "birthday": "1997-09-27T01:26:15.656Z",
+  "ip": "88.33.33.133",
+  "foo": "bar",
+  "profile": {
+    "about": "Bezow hap de jaeka pe ciw vim si lub ki fil ez ir ehivocu. Nobgejtu lilam gezeba sub woboos vakgegra ikolin ned toz ewetagor ro vuf igeuwfon. Kap ivhecesa meh co ocisu usaspe aju oco de pesmumu gih kobnevbi ku. Ipu izeonba heopi fige soh uraem nicpusuv sedlukji ivmaak uwe reekifa zi palwafru. Taga hubi tir femes vuni roigefa ar cedulku megefdi toag ico jivmedbe aswu foiheti avka pakom. Ki daenleh infuka akawu jom ovioznu pi jub mug era be ra gorsupbo ohifsoh jofev si. Zu ovejut juvej wer tuh rinpuh ebokus gifrela ficpitaca zepwi obi kuvon onti wuarpuh ihva.",
+    "bio": "Se nevunca ralli rak webek nopmetdo kavizeh fampas eceduub ibiso puza cu ce cu ococo umluepi wilvid zac. Zi imo noca go sinin guwew eje ocpi fusishec jiezar zazkofic tu. Sumhazol ziokokic wopuk ejehin alnilo wogag dauze le nimna zovfiel dod ekko zezohavit. Obogimbep wo duraep tummac hawtez ronroet pibnic hi suenuhej codtowe nidtumif jechumha potga widcadcop. Doiwwa gi icwovu zoles mi idaop dursi cisahe ucadon javso tomeih evizovji lim okvevig. Adtebor taw gugca fezim cucapa ekbona ehligva pavtijok falmocec lif safhizu jewapug."
+  },
+  "apiKey": "6c6885e6a760b4c91f0ec96cc492bd8edf904bef1fa0dad51d108a99666cdc3d",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
