@@ -1,0 +1,26 @@
+{
+  "name": "Marc Bradley",
+  "age": 44,
+  "address": {
+    "street": "Kawi Loop",
+    "city": "Zoedji",
+    "state": "DC",
+    "zip": "98354"
+  },
+  "contact": {
+    "phone": "(407) 565-9607",
+    "servicePhone": "800589992"
+  },
+  "birthday": "1991-01-28T03:45:15.163Z",
+  "ip": "151.25.97.193",
+  "foo": "bar",
+  "profile": {
+    "about": "Imhudog sazadlum cub wot wu emozegej owenodso zevepa sagwur gok as dihekpe fanbopu wiukone hiv ivrumzig gik. So jic dijge piluwev jimawe erve micnep kanazu secnuba desevo vejivi koluci gevuvo uzufiab fuv. Ca ve irugenu sihwajdo ive da ibahow lonoge rudano me dawoco ollawiz kijos. It du vuf hoafacel gitazime kehancej fom suc otipefun gesew jeicaro tu dacocle zubhewtih wevi tus ef. Vizzu guklepe wi guedafim zekabje pusic geh zokidgeg tazipof dusuwha eke eni vibnuv. Tutopa ari cuez fifipo ak abtufu esa up adwez dimpuw nov tune hah.",
+    "bio": "Mimne ceud efima dulu veuwiw aruiti low fucteg hente azu dusut buz enu nufim be venimar. Heb didruli fu fir weeccu lipvoh kar he wudota ub nuh ha keuc ru we olgoohu. Cezutaaje nahuc pujicwa op wungifniv bihse bitez jabzom baf egwuf obiah lihi wep ju ag nasi. Pulul jonrodfa ca ohruv ced ectof kiupeami zutajote su nuteop hirpor cesul megohe rar afo. Juggib ja zefago ne uwo owgef tuf ogtapto fezis mirpokreg kerhowjup ufrur eleapieh. Dipsu edvevda pe ze rirkoh vublecav serezcu soha og febzilir za kog jifezeam daw. Rija tej ligifre wuha ova uhsop fabah irule og gicrewuf fuf herok wo todpu ageoho movkod."
+  },
+  "apiKey": "d2876fcfb3af87bfd18c7f30cf51d11f3ae113179385ae677ac57628eeeb17a4",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
