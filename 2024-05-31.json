@@ -1,0 +1,26 @@
+{
+  "name": "Katharine Knight",
+  "age": 64,
+  "address": {
+    "street": "Ijube Plaza",
+    "city": "Huvrawo",
+    "state": "OR",
+    "zip": "22814"
+  },
+  "contact": {
+    "phone": "(724) 903-3335",
+    "servicePhone": "800671443"
+  },
+  "birthday": "1999-12-15T05:39:36.388Z",
+  "ip": "45.65.212.164",
+  "foo": "bar",
+  "profile": {
+    "about": "Wautver utohed gi zifmuz mofizifed ikesu uf jacda lopdut ludej amaijave uwonu. Guzovneh gacob di tuz kov fi wo nadkid sev ipuevicu cev sugpijvup nuhop. Vamug kul vi zuzim ta wumasu ze fi fe gugibnoz iganid adzu ha uwoscof we to.",
+    "bio": "Daodbil kih tuwuviaf gihdatu imome lik bepro ozu rep kiwzif tof ukoti ge. Weja ge weawe valhura vavcedo ugnu zil jamef wafmatuz wujde dag ube safhijos te na tecji ludsensud negbiw. Ri for beel fa ifwu movub vet hir lun lajsec haknitek apbo ozuhonmu acab owies am. Diguam lekfuv af papges nuh tofesit huiwo diunni ogi zi fip mopozo noozimi bi dac kar riwikvek."
+  },
+  "apiKey": "a04a0bb1d81e9934f30e4d0f78ddec5e81aa0c6c58ebde4939c278c3697920e2",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
