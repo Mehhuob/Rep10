@@ -1,0 +1,26 @@
+{
+  "name": "Sue Stone",
+  "age": 50,
+  "address": {
+    "street": "Rabo View",
+    "city": "Umogujbog",
+    "state": "NM",
+    "zip": "82857"
+  },
+  "contact": {
+    "phone": "(726) 834-9703",
+    "servicePhone": "800741377"
+  },
+  "birthday": "1978-08-27T03:15:29.077Z",
+  "ip": "127.249.16.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Helbez fomalub cuuvo sugeje vov inocemev rufmu du raso zuf tahe alunohile nezfiv ji lofrutka. Suiltu vi lu kan iwa cupin tubga huhep nagogah mav ino azbi jatwozrow wad fa fu. Ufrejwos rijeuco zidra em zelse tifzuwo taca gambuhag mamovfus deipize tivjogi pula nedofa mew wunzu koko mos kumuv. Ni giwko bowhij weipu nopotun hu juzmow hummab motisinan pa la kin hen gapeju. Diglop egpapig daw mir debtowvu lik seglu somaz tafoji miikobuw itufir asakukeh garu warige.",
+    "bio": "Dog gen zasamoz besi ige al fiv pidgep ecavutak wuem kirabru je wec fogilrim rowpamuh. Wezep vulalu te ecose zikab rud jahan necot evsezif biro ju japdoh pe vem hisovi gompul. Wi cibhig tiisusa inubohdal huju ewawidi cunku isafo nas lu ceos cujo peho."
+  },
+  "apiKey": "ffdfdea05924436626f2bc473033cc29845728297db8bfba82b43d6afbdc8bff",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
