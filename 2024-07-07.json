@@ -1,0 +1,26 @@
+{
+  "name": "Lida Carpenter",
+  "age": 44,
+  "address": {
+    "street": "Coza Way",
+    "city": "Actudami",
+    "state": "KS",
+    "zip": "68955"
+  },
+  "contact": {
+    "phone": "(330) 441-9828",
+    "servicePhone": "800868792"
+  },
+  "birthday": "2002-04-20T11:18:58.903Z",
+  "ip": "227.110.153.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Gah zusrep igtif ajagi jeh upi kusot pivwaclar roadoko owuniw morag bivbo. Uricegilo mo nuz lonlut at ro guosowa rume ivjemiwa sa wur vuv wiwun vej suzeb jot leejbi hu. Burapilo amuh be liimi obe ru orsagak sebi butfeeke ejcu cewalfo afiapuha. Do kilwag pi ehi rew molu ke fiame ejwuoje higef vec vi felivi. En izigojij doh sevsecdi zese tigjomi ole wopod wuzum saldib navja la cijme mawamsa. Fokza diwcivepi bidonu palo aka taveb masuwe gov lodzo ifsewpe gialhi mesta.",
+    "bio": "Ewake ussudo jaawesid tukvu vu cercocah ikafow fawaih kemamiwi wo uca kir anjic zithavbab vemuc. Amodocev mecog poz rucalan bim sem reb ade zew rehser gakma utpascob luwpu omhage. Oglizfan mic uka hoegizec vudrebuh pispahgef labalo kedma vuv buenmow wumkovob pe. Uwu warpot isocan cok iv uzi ri sup giwjosfu guj fito jofecelib miwri opehefju ib."
+  },
+  "apiKey": "94d471aef7aa61c93e6f95f6187cb5c1cedb373853b8919e4770bc8d7d582a66",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
