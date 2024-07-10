@@ -1,0 +1,26 @@
+{
+  "name": "David Martin",
+  "age": 58,
+  "address": {
+    "street": "Gadva Avenue",
+    "city": "Ikapapiw",
+    "state": "AK",
+    "zip": "17749"
+  },
+  "contact": {
+    "phone": "(831) 861-4654",
+    "servicePhone": "800519915"
+  },
+  "birthday": "1969-04-26T12:40:22.469Z",
+  "ip": "228.205.140.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Isa upaek lugawpe pejirlo zizi mocjiz fuk bilfik ad de muvu dalfuhsa ujere jez. Kiog oji taemovo fevad joga tikco pifaj razi zifpop cezvudso fesubi paduaco ri lutco rizzic. Pewodkuv mobeol il genjuw dilwute ced mucji puran or reub remmabcos dabna.",
+    "bio": "Pacton bombu vehhapfac povha mit go ciireru baztinveb gabeh ditacabi gubjovo puhoaho. Kunot hewecaho kepo demrewhi matzajoz ujouwpe zujem hecji fave le ugewih fin. Laf jo ijo oh kag taz apvofpe vo tap to janubdu biftiunu mueso bakustuc wucsit. Suati ifa ufpeh ru web hejafijo ba gureb la ges tufjuwfa gu he obo."
+  },
+  "apiKey": "a7bf04ea700db77c50f3a652a44fdff3994fa032af620c179160fbc57fe48151",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
