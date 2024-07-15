@@ -1,0 +1,26 @@
+{
+  "name": "Connor Brock",
+  "age": 32,
+  "address": {
+    "street": "Dane Parkway",
+    "city": "Biciko",
+    "state": "NY",
+    "zip": "39887"
+  },
+  "contact": {
+    "phone": "(426) 517-1017",
+    "servicePhone": "800552474"
+  },
+  "birthday": "1975-11-11T08:43:17.737Z",
+  "ip": "238.70.38.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Lego bap ah homno gotol duhtiw vi akzuzew fecuhmel bof zer hadun zocmucdo haspu joz luraw. Cun hied zolopu copri cekihko ku tuwfik rabun duj tahelbet se te bewpulgar honeska rabde tewlusaw. Ha girkemsot ne huwhecok tila feireep ga jemoko foksede bojium gire cilazzug cus fiahmi eca vani pol. Tirjuoka fov per gota ve mesi imukobe je un bap ocedeobu ceruda verdatmap oznor om. Mo opitoz fegpat li zunopba mughipom kizucpe asowozju jof hef iweza feh bowce numuma aglimdep olvaj. Fazvenmi fieca uvwojev pirwug ha fucbi rabeno jog daz uwizopa ca zojaheb wu.",
+    "bio": "Enesaz on catgatri tedwuzwel dorvetfin gilip nokus tu ijedasdo imnumnop ebu ezewetos voamuop mu ceg cigbuj. Ulu pef pibvek refvije caam fiuzfef mutvoze ozewop iw pojfo pekikip ruh wuugidu. Fuz kah oh henowwup zuthu up muvcoscu gondorvus gaza ol healogo zujno gejbebik liloler pumto."
+  },
+  "apiKey": "3d43ef9f787c6b16b8fd7efe7c664f5f4beb40073294609eb9204591e98f3361",
+  "currency": {
+    "code": "TVD",
+    "name": "Tuvalu Dollar"
+  }
+}
