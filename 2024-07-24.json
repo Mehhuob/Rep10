@@ -1,0 +1,26 @@
+{
+  "name": "Emilie Holland",
+  "age": 31,
+  "address": {
+    "street": "Hojuw Path",
+    "city": "Fenetva",
+    "state": "LA",
+    "zip": "98382"
+  },
+  "contact": {
+    "phone": "(265) 370-3234",
+    "servicePhone": "800385349"
+  },
+  "birthday": "1982-05-04T04:23:14.705Z",
+  "ip": "57.150.245.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Busku bogne jaol uw sodjuf niznuvsu cuaje bobe ucerazok ov fu ebapiel mongaggif sok zuzruw jo rub. Votul vimreda cotub wacfa veh ninawsow ro pam dikadroh caugehab co ziffijib. Jaje repal ni lod so wupigzan bewvi cacakic miras ani cahtipoc heasivag de si.",
+    "bio": "Fiwne pigec jup kesdaj sinup lievjaf figolevaz keg zuriw fojuja oca huco jeufaror piotve wip pudukdi. Tus hego rumkeh das imdipu getu gim batudok zawov okiug securew kotebize. De jupemine lozen ovju iki cepzare elomako co ta wikap elgorun kadifovir wis lu convumus jug vot zahirwo. Comgafa cejawo vahmug fan vafaw getov itibezsaw zomuh nuwindat toneeki abvefeto zus simahe us veznotos himpalo evubjum tufnav."
+  },
+  "apiKey": "14c881b9b40e2a1ac023d12428973840a2b4a66b083efcfcbd27018f6089b589",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
