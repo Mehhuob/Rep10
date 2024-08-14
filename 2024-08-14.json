@@ -1,0 +1,26 @@
+{
+  "name": "Corey Harrington",
+  "age": 20,
+  "address": {
+    "street": "Humhoj Ridge",
+    "city": "Zedderzak",
+    "state": "CO",
+    "zip": "57842"
+  },
+  "contact": {
+    "phone": "(635) 528-4000",
+    "servicePhone": "800276761"
+  },
+  "birthday": "1980-02-13T05:57:26.071Z",
+  "ip": "150.233.144.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Iwefirib baggat nirnilken eka tizmejos uviki jir umeitifeg we rulofcu zeze lufifvi rifum codu hovpomuk. Hopadcet fifofkot igu ebusegip ilefen la tuh zoppivse tavuboc gu mika lijfu matef bomsodsaw. Zurfariw wofutoza ulheh tez mutji taiwiho ragnawof foefiga igce nuben uwi pa iroelom.",
+    "bio": "Zuwko capa fu wicoci dip ajhe izzicte vuacoc fehvog gub to hib ve dej toamsa nob umji ke. Opotoco oda dop johpis salcum dazubag ehucuci emahajo ebizutom no tetveckih cikezsic ipo sa nehodbiz namlat ta re. Valopo ivbi za nele beersi nurnuhid luj opsudem dawwir arsuvaj bo do atlapkup wimecce tesieh."
+  },
+  "apiKey": "948677152d90e005b01dc371cb7ec20e2c35020c08c0a0c95763f21804f02fce",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
