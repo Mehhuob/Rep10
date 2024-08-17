@@ -1,0 +1,26 @@
+{
+  "name": "Bernice Barber",
+  "age": 18,
+  "address": {
+    "street": "Celo Trail",
+    "city": "Kiumsa",
+    "state": "SC",
+    "zip": "44971"
+  },
+  "contact": {
+    "phone": "(548) 666-1902",
+    "servicePhone": "800637657"
+  },
+  "birthday": "1979-03-07T04:06:26.702Z",
+  "ip": "249.238.203.153",
+  "foo": "bar",
+  "profile": {
+    "about": "Pekzolo gesjodo atavi semjir nissev ha va benehub rakumvid sud buedorid vettuf je. Kujof ebetak vug reruj howmec ca tu ombet uw ba walup wevohena farcufaj suhage ceikoc daalouha umukafav. Cided bu cipkoot gam tafo ruv wo wevu lerki zi tus igulib.",
+    "bio": "Za tezvakado aboduno conewfim cuj wobaw posoj fiz andoif vumbih mes zijat la wevih ic. Iwobe le sofze ha degzamsu gi ni papem jejdo kapozro nigip tuvig et. Idemowa pekip vowaceli eh lehtibe mikho wewjedap jarfiva of feku eppi atiok awroddup tugeube. Morcud ka po legfin wepot alwoslof lizkez pippure odomamzin citwa so irdotem ufo."
+  },
+  "apiKey": "675261fdc556825cc413b346e809673888e967ec793a576210db58ad9f6d268c",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
