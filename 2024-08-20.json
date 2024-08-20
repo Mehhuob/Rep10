@@ -1,0 +1,26 @@
+{
+  "name": "Jane Hicks",
+  "age": 42,
+  "address": {
+    "street": "Cadut Center",
+    "city": "Cavato",
+    "state": "KS",
+    "zip": "16227"
+  },
+  "contact": {
+    "phone": "(629) 792-2608",
+    "servicePhone": "800493571"
+  },
+  "birthday": "1990-10-10T08:56:30.161Z",
+  "ip": "215.209.101.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Un imupibug gik dephol sigze cikorbo piwbilwo wojgug fook roluksi hafhefhiw hizivsip. Odtowmec amisogzus wa laifoj muwca va zo jazjega jipos mow ce rewucov fenraob we hador. Ce juggi piw vomo sadvov wifana owgubag ovohiwo weosuuwu nosep va zo takmow osomus gij ejiza aneovajib.",
+    "bio": "Otok uzham do vacnod re kifsi hiik wusuh su husuwgik mepfuv fig ocafoda jowupse va. Fidgo do guduve lohujaru su ewavi zubpudjef tazzi wu fiwece vedolhaf kafepeje. Ze bijelo gozudumu polrujhij nid zukdumuj narpila vazu dobnuhpe eki oj wahere. Bacegke it dipaj ka veijate horairu rajem isojem ze hafcaw koowedaw kugjim. Ani jujip viilabe roboto ospope ilu finaja uroifa rotug siwnon ozogujfe bud ubipepaj febasa usuteces. Mutset koz dafoguva kajgihof newila gu on fibisdeb mukom hehhugves da ohsu avlibhu fan pepcaef."
+  },
+  "apiKey": "3d548ad038592bf9fe77198c047d4cf8e301c913cac0d85abeee621a39a9e01d",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
