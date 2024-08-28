@@ -1,0 +1,26 @@
+{
+  "name": "Rosalie Schwartz",
+  "age": 58,
+  "address": {
+    "street": "Nimdi Avenue",
+    "city": "Taakut",
+    "state": "AR",
+    "zip": "75668"
+  },
+  "contact": {
+    "phone": "(715) 317-3549",
+    "servicePhone": "800278242"
+  },
+  "birthday": "1986-01-14T04:13:15.696Z",
+  "ip": "215.239.84.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Ta pewispum kizna abutob pi vo adusi nipi an ijo buzikane gebkiju casatu si zigijap lewosce timof. Ti ugecuavi nelu deher ifta sejaju ugeetebuf pi kalbo tiji cam gu likraz ma itiebno oze. Ce zor me kaz oritebov nolvazil bit ituh ek gukuc or mun kocjih kopsuan ti. Ro ho wemilo re jekuzoh as imwib ukier cuguhfe heza hurupfo odo na.",
+    "bio": "Jonpen tanfeslik uzhoiw vi zuh polob lonba kuziwku koesi gihdotuwi guc kum. Nu ebro tosan bewsut zahmatwon heija alilav weh abakir ka efizohu da fibtev joduflol. Jes holawso duhij hanas eh ficpocic wuz sonedeni oruopa nufokam gur kibvu gufkagum rekwehhom zaj. Mikew wag modespib jugaz en lovav acuvo elteruv selohi corok ipva cuzecfug caarfuc mopuip os tu. Gizefpen evevu jel nusude pawilvi sog wakoci awvo tawcot num wiv pud go sezder viwuceh. Cu wi kewpet meuri uj uto fa alba ipi gofpezut kojamiba laani zokcu ag wuju rinezude desgegjim."
+  },
+  "apiKey": "cae2e205ee1823472ce04e28ea4a420f9098f10274262fa97743bc8e09d6ff08",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  }
+}
