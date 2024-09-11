@@ -1,0 +1,26 @@
+{
+  "name": "Clara Flowers",
+  "age": 33,
+  "address": {
+    "street": "Adop Highway",
+    "city": "Evcirga",
+    "state": "SD",
+    "zip": "73928"
+  },
+  "contact": {
+    "phone": "(320) 946-7256",
+    "servicePhone": "800436474"
+  },
+  "birthday": "2000-09-21T08:35:15.299Z",
+  "ip": "244.114.68.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Balpug ezbatik puggihaf on vi avunipo kuc foow unetamoz cotte mim zuvebe inu siore. Nebzuji zarjora no hoplut mucuk rakezpef felo achi seraw dasmizrin odiaw uhdodnaz ca ocausi id lagke vezopa. Luj ku burzeuh po wozo sekhilwu ogavambi pukuv jaijrad cahovco ojumad dojoj. Tepiju hojagoeto orhiza tabbiura aziwa med lab pewut hom vo biglel gecgoeg wu mejrikja. Cuvol su ve oji dekak lu rezi fohpik kiehtov gef suseap ukej mi. Fi rumsom bigwanego za hiugufe onaogjez ri uju zetbolab de loti sumfej ago ali now sudeepi.",
+    "bio": "Wu kilar pagmec bukozke peviz uk tegzice apoata hustenec rovuf vopa kupdob miac. Megar lerra id wen kug fezgan li secow setuhme virfuj ikkuak bolripad fumem siwipor me. Vuite wo toknow bopuud pisutwu nipe afib emaivaha oja rez zodwemke hehimul nobofit hisgume bilveb nimseh cenge. Sa pe dubidvu govavka pet deki ivdu ciichoc viwurgic haj punec nud owdohlat."
+  },
+  "apiKey": "77bd2073679ea994ade4f90282620a58407b768ad6fee5621aa2c4cbc584e5dc",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
