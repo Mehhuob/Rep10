@@ -1,0 +1,26 @@
+{
+  "name": "Manuel Mathis",
+  "age": 23,
+  "address": {
+    "street": "Nemul Circle",
+    "city": "Nafiidu",
+    "state": "WA",
+    "zip": "41564"
+  },
+  "contact": {
+    "phone": "(824) 645-5185",
+    "servicePhone": "800197943"
+  },
+  "birthday": "1997-12-14T02:43:36.161Z",
+  "ip": "83.195.14.208",
+  "foo": "bar",
+  "profile": {
+    "about": "Fobniobo vi rolutpum zasboj civieto mogweczaj utewen vuib toev ecoaka apirozo baj. Ziguh walbovfo vutirfew ewupiuze gekuk ibisuse mewoowa nobucbef rinekroz karbim ipe voif upu lihop ovaloje fa up. Elo mijdovpo ob ipati leut anosig ni losicre vufuhoh nivlodo rutja pi. Zehhujes liwpe zolerini muh jozal jabodi no ba savsu wes somvobo atijoh pug dubine hizwo. Mowdottog ze jagrumihu wobo nenoh zedhar reveb ubmuj eb kag tathotugo kuvareibe zalgefhes kisiz.",
+    "bio": "Aj azobbu vudwoka cecuopo wa cih puf dujigguc evuriceme bezisema cobicah bonob sonudi. Vi apeuladi rez rome nakac opobubsov atuto ra vojafis jekolgi votpaiha ib iliziwa hihu cegvi zage jokuoga. Upfo tezguni vopge tegre begzit solpieco fozco made zoc volas vozrot lunep zioso kisu ewoiru oc maw. Ceve dod zijomufis agfin navoiw so apenen tacu wepagi tursi orpib sowalu rik mertuok valet sulafan if."
+  },
+  "apiKey": "ddd18c6912d7b0d803ab6fc67e578ff5d146cc385d16c24d05b90a6948c53224",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
