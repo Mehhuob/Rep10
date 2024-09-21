@@ -1,0 +1,26 @@
+{
+  "name": "Mary Johnston",
+  "age": 63,
+  "address": {
+    "street": "Weson Square",
+    "city": "Botneja",
+    "state": "NE",
+    "zip": "31985"
+  },
+  "contact": {
+    "phone": "(255) 973-7275",
+    "servicePhone": "800167575"
+  },
+  "birthday": "2004-01-23T08:56:02.278Z",
+  "ip": "82.172.60.47",
+  "foo": "bar",
+  "profile": {
+    "about": "Sutit tobu ver avagin ajauj sicefce govzuci monesi okipesi ov sipa cilos. Helupres ke aju nelhaca remu sukukit hizaf pal huodcad wuc imso degbev ge osajo ube. Bemnefvu tadsoil bofu zultatur nurvefmul guv we zihtum ge elve veaccog aca zag par jike kefheb. Ligolaf fipetidu besi si mahufebev digocu fecal iduvap ci posu naetpip piha lavunoco heborwiv di hauvvat homreitu catties. Vaek ridkeguw cubkej inni nutzu waj biizuceg dofji roprapob mopico pa tomsobvos. Ifdig foabji hi ri zowucri juki bog ubeje zam rucvud begoji rob fafura.",
+    "bio": "Saanara ipe defa gobamek nojan mov ateame pef gaw zukil okgin ne mo teneda pudobu subuvgil ivu ujiivhif. Ob mi dofeage cutbu heh kafahi hohuf ojdat cig fof ipuze biddodu lurted to awehul cof olano. Fe um bopa beg joir gizuop elfeolu jew hiwe rinu jadbedi nasek rut li zaewo pazul cumufwo redowdud. Duwudiw sufvav wov ubaan id ehtuvid etezsev upi gezor rizte sunnipde ak nogogab jojvap len. Igijidat di suj panaim udzo kibil ziwe potrut tiwe bibnasdo wewbid jegetuvi napelram oktotiju buwtumit. Nowu god ze sunmit eka mi to we hukip bofewhi ibasuf giffimipo jibe. Tatero onhuf ob dej atpit satujouzo gofcoh rusi ez be si mo doun ubopelhe nov hepumu holiwwe."
+  },
+  "apiKey": "bad39dd2fd6468a11324a15c91e6f4511403e1b1d517af946683f32033eda313",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
