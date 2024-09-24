@@ -1,0 +1,26 @@
+{
+  "name": "Blake Hayes",
+  "age": 24,
+  "address": {
+    "street": "Unres Avenue",
+    "city": "Vosepow",
+    "state": "MA",
+    "zip": "96427"
+  },
+  "contact": {
+    "phone": "(265) 431-2563",
+    "servicePhone": "800345568"
+  },
+  "birthday": "1996-01-08T08:15:37.179Z",
+  "ip": "20.88.160.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Lumvarkok forlebeb un giari ukaz ke fibcoka vejju runu abu mov jad. Fesiri juhso wias keelluc befla ed fob kuow baw wouw ora nehdehec tef vive idesa. Pulpiwe lecce si jif hegzet wuwevzen ke rine umoja geejojo voko le semhumdeg rivtuziho lukzot mu morim bovseeh.",
+    "bio": "Dav rupalus samzim atnu izetana dirbina ak hama zojjidil ubololo cu as heshojwi hepe wemkizu douvluf. Duc zofkabe ca wo cu gizdo zepaeci sa moedme beka taliveh dosfep pu. Faimoke lerlej wovpur ku pojleemo toemode ezpovuh komso er tu gatorbas higtelaz ta tever iwkebza zamda ir aljo. Fizsa sotej ussazaf efcek juakica lij alucaghe vijogaje cujuc gelafano rokoj let beshu susuz puugfo jazit. Doh pozbig zodme pit hibij wajga eckebozu winoddep ci onbav vetguh ifze oti."
+  },
+  "apiKey": "31973a992572974ec3b8aa864ea591e24dc4eb94d141d269498f5242b2185ad9",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajikistan Somoni"
+  }
+}
