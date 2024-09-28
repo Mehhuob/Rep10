@@ -1,0 +1,26 @@
+{
+  "name": "Grace Hale",
+  "age": 33,
+  "address": {
+    "street": "Iloor Manor",
+    "city": "Apurodeba",
+    "state": "DE",
+    "zip": "48760"
+  },
+  "contact": {
+    "phone": "(617) 225-8047",
+    "servicePhone": "800137365"
+  },
+  "birthday": "1974-11-06T01:25:08.162Z",
+  "ip": "17.42.162.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Cuwe ral orejuf mi somtir ujja lecku jubeg dutud uhuhinsa esa ijikuid. Jesu ran hol almadunu bocaoso mezpomaz benume gos eliivgu inifuca bodrabrik wum. Ukfu awifekbi za oradive rawheli jip fa je fi balcidco tekje vaje id puhdu. Wibsegop nalo utacozop neho laz dorhada num zah rowef odha dezfo aci cuwdaj kahkumi.",
+    "bio": "Cu cen edadusad sabwa edecumte izuboad zadziec fimjaol vipwa agoaja ko begezjun. Zuzfiju barun radbofwi ahmub ekose jiserup so otwi sohhinu tujjosol gemselgof cojsav ejatek. Dewimtaz zatij maspi an wedi sum vapzucli uta uvir mokefag colo bo moz vul. Fagcu pol ede ku barwase pedraju jip jin vifu seema eha mec jo puwkak lafudwu akaulaeha kujho. Kesli ovavamta pij pe mudere orut fi wu vez jarof kujevhib depow. Radomir ha elboj wu cogake wob fo rerjidlid ozirebvod ikusew ad adiizo gegpe min. Huw lepatde paudara vedu zitub hi kaiv jarre izepiwam dufrugsob jejje kocogi tazobom jichub laica weiszo itemuos."
+  },
+  "apiKey": "a0cdf443283e3db742249949639e1e1dacab4cd36a5327e275b591e602459c70",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
