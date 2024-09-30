@@ -1,0 +1,26 @@
+{
+  "name": "Brent Hubbard",
+  "age": 19,
+  "address": {
+    "street": "Lekzi Path",
+    "city": "Wobeuju",
+    "state": "UT",
+    "zip": "98187"
+  },
+  "contact": {
+    "phone": "(305) 707-1417",
+    "servicePhone": "800951317"
+  },
+  "birthday": "1980-01-17T12:04:02.872Z",
+  "ip": "159.14.137.189",
+  "foo": "bar",
+  "profile": {
+    "about": "Mig vefoj uvo liw lusulwad eda asowec veebcil ta suivojo ku tasfo la. Vevij bubojbe pucliwam vura fifri zilnupeb nafratla nomur ak vepabfo wada puzmuzuze soge uchanol. Bu nud vu cu kobavom jiw naz nuol biwladsuz bofhe baju geme paz ro luvedcid. Vocose ecibiid hu lij hinijaz vudun on we pe uji zuva wikullak noz lidufu virofwoz jo eriuta hiwo. Adu doguwuw sedob wom elazoduk jezdu pedfo pu agijatec huovbor fucibahe udu aw bibadsa nebta. Tut lag cokjuf iwaji voblupek hikitlub sat so imeudi najacgeb rosdece vemuhi fucopew sopislaj zibdi fisoloz.",
+    "bio": "Zak wuf saje tezete bi cujrelu igi hurogge gilegu si vuripopif gupjif pir nal bepcavpo. Ejo ofa dojiz ig fu je kijesbut gesoti luimmo unka ci so. Tezusgin faled ohojacil kenuige gow abrasef jidhapa timonji gum omho wetuw eb sogluune dolufak. No gocrum nahej fu migero vegsisob olobij heow dewij ma dacu racusve lepita abo sovvafmav."
+  },
+  "apiKey": "2c0b78ad17ea4c8e1ce31c1cc0d774bb8396127aec6c474e40d902582d69b8b1",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
