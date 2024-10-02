@@ -1,0 +1,26 @@
+{
+  "name": "Ricky Walters",
+  "age": 47,
+  "address": {
+    "street": "Ramdoh Pass",
+    "city": "Vuizalos",
+    "state": "PA",
+    "zip": "09578"
+  },
+  "contact": {
+    "phone": "(683) 428-7037",
+    "servicePhone": "800861519"
+  },
+  "birthday": "1969-10-26T04:11:39.771Z",
+  "ip": "247.215.108.153",
+  "foo": "bar",
+  "profile": {
+    "about": "Fobaen nofifruv ucaje zevna hohfip hajfa cujag wosibi bes ce ro ukluf hujmav cojewje. Obuvojju fomuv tat goffog kabol ofijube uv kufpu li tot ne hapozin us fuamica rumadwu ijejuj. Ce uw vu cepe son nobusnaz nud hegagpu set nuwobnik baf fovef kookuge zufuh tapul anige.",
+    "bio": "Invibfo sejugwu vizwofej fiusabo dise rikekzi ocouti kapsol fak zulbow hefuf cimekces wi zuk wauz conuhvo. Zokmohez lursonub tog afvud rarik olalor go hef vuc jagu hahmopbur cugvuz foporog tuade mofnu beh jo. Rinfac wikpu tadduzpos ol lelguf wihwipsop bofu somgob awucanir reglokwa keg facu potir pug wiv izo."
+  },
+  "apiKey": "e94a7a68ce25ccb11aa5ea9835755bf766268f6e30a447e62587edf6639ef71f",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
