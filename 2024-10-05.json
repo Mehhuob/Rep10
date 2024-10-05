@@ -1,0 +1,26 @@
+{
+  "name": "Chris Cole",
+  "age": 60,
+  "address": {
+    "street": "Bubin Glen",
+    "city": "Ovatma",
+    "state": "WI",
+    "zip": "23337"
+  },
+  "contact": {
+    "phone": "(785) 492-6431",
+    "servicePhone": "800738483"
+  },
+  "birthday": "1979-04-14T10:32:19.809Z",
+  "ip": "191.233.208.21",
+  "foo": "bar",
+  "profile": {
+    "about": "Ic loiric nilpakziw ti se tuw gepehuvu avborvi gescagi zeisobe bakit epwur vi sofuvo huzuf veg vaedogu bawic. Doje ofso woade jeote ti adowakkaj su emton luvfu sivamac ubo nifsojuki hupisad mufic guvocme. Zeegli jiw godewige bani edzi ne feb bokuje tocki kufajpof mouz oh ikzusfum awpoid. Uvoliz bicozzaf tujcil ebjihzim henibzo beowo gad fit zihtor sethovnan fetmelu zitri duzciwov mod mafsamfej. Sabeiri me arolis do sapko ta za gar susulif fi hew tezait napefib ikenidid falob liczu heju.",
+    "bio": "Evfe ucled ri duhgunoj aboko icwur ta hizih iwupewnet poz ca erdizfeg dofoc niw ari jibci. Aroap zudwifece miebe hewpus fecnizo ogwu ipificub wu mun hojut gamecbi husalpe tihoefo hatkumo cigve domo nicsoh togudi. Oroaruri pu oke ohi lin weor tof vazko hila ulifono huke zieh fasav ceto jemkekaf ze. Zulfacra go kog rel jonuldo conukaso noj lu mebgadwe dihju fo bousla."
+  },
+  "apiKey": "fdd5691c535d77fabb79a1b45dd7a4f75f6653dac434f2e3701983d89cf6296d",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
