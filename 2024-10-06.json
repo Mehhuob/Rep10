@@ -1,0 +1,26 @@
+{
+  "name": "Lura Schmidt",
+  "age": 40,
+  "address": {
+    "street": "Tasdiz Pike",
+    "city": "Mukpize",
+    "state": "TX",
+    "zip": "39229"
+  },
+  "contact": {
+    "phone": "(616) 776-9800",
+    "servicePhone": "800199615"
+  },
+  "birthday": "1987-04-25T10:22:20.153Z",
+  "ip": "63.54.59.128",
+  "foo": "bar",
+  "profile": {
+    "about": "Fole zovaj luceb pohijbe dupag famduic pav cipo be ceewe cielhem gocwezjam. Mis gundanfiz pocap tun zogip wu bow zah hatojuaw hidnenet cuwad wubek nefu or bip he lodfa muk. Se ha hurohwo gifcawaz nufpaf mu eztat pema usluufo duw gaad kifwi vulpoc.",
+    "bio": "Buzmoew bikkec ropiv keketvir elero bupluom fuhul hi hegumu oteawoda udeki cugrov vilputof buccuc. Zaok ejmaz ne jotezzi iwalut vigahpa lewbijvi upnipo da vukot ciadeb lif tutu. Hol ebzal azuit bufi levno harosnor luv zom pet uvle dipo wah jechoaz osonofo pekudi hegid."
+  },
+  "apiKey": "da8684d394dd48a7a6051dec3ca2e446048086cfcb2c73f409d4345b23f7a83b",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
