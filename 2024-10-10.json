@@ -1,0 +1,26 @@
+{
+  "name": "Cecelia Reeves",
+  "age": 65,
+  "address": {
+    "street": "Wobu Grove",
+    "city": "Joojazeg",
+    "state": "NM",
+    "zip": "43573"
+  },
+  "contact": {
+    "phone": "(329) 890-8411",
+    "servicePhone": "800365556"
+  },
+  "birthday": "1996-09-08T03:38:48.814Z",
+  "ip": "54.10.253.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Ibeewe ma daut izid gucseg wapa aji poj etulave puporte suz owabuc. Ja akji aro gopawib om susci itenebza olanuv hoge muctal tawofzu nuhpirnej aw tad log luulge migisefe. Do jofja fij wugse vedeb sofafe be buivajo lafepe paklacog ket bi ac kofbowraz asti.",
+    "bio": "Te zovnokri udage cigelbu vib gano zuwke piwoj ligasfu ifva tofja ge si ohvuk safajzuf pubig. Babbot futwew vibewaec cik uli miv wuku evimes duhlu acuhoicu ugkebu nimlutma jol rasen etlafdag patgavi cazij usa. Wu jo do ava tic wag ot cizeljap hugoneko sok rudaga gozrakhig tievpi ivafohi pipirtod natoze zab."
+  },
+  "apiKey": "c7ec2060e7ad3bd84d56b3a713ac379f9e07dc8b75529ff390b75b11ba171b02",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
