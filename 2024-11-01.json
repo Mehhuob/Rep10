@@ -1,0 +1,26 @@
+{
+  "name": "Dean Hunter",
+  "age": 46,
+  "address": {
+    "street": "Nembo Way",
+    "city": "Igopomida",
+    "state": "NJ",
+    "zip": "78785"
+  },
+  "contact": {
+    "phone": "(246) 576-1448",
+    "servicePhone": "800297253"
+  },
+  "birthday": "1971-07-22T08:30:15.450Z",
+  "ip": "205.210.38.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Pe rag hacodwit furecale mewbin gi senjidu cogbu liili cerboamo re atuwe ujorozo rair. Fijuze gev gozesli wiinna dog fugevo abgihib sozkujra pi fodvez gic ziuvhon va acki. Alebub otefi verori udomi veli izzegej bafpuf unhergul kemsec fozuh ed sov buvma genanta. Izopod mik jo ep wunkibano orkimze gobrivoga ali lepi kuhaciun ca negjo sivla iru ov lovhu.",
+    "bio": "Leku na ticuopi ikbib ube deipu vuvfiduz depkoduh ud ses badwiw dawlij ha va fab. Giwte pur gokwelzaf zogo wihek hali gi lo won hucoj defga tu laas miwuzoba pefezoow pedmug worjip zukahe. Ahous rinina vecfad tefuwe fi emo rafan za filibed suk uvjofu ogicagfe. Oma wuemweh at zuz bowerhet obvefsa gu ohafeh upuic woegi sinfoku ilvev ulkifi ocuguf locoj. Tojniva pohuj ruh sop loifa vowav bigwerdap li rovpobe da na faf danav odeihkor eza feejegu."
+  },
+  "apiKey": "892643ce5e2550adf3fa3d80b2e4454d6302b76a7c3c89e7b0f90c6a2663f3c8",
+  "currency": {
+    "code": "TVD",
+    "name": "Tuvalu Dollar"
+  }
+}
