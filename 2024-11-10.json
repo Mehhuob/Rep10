@@ -1,0 +1,26 @@
+{
+  "name": "Joel Jones",
+  "age": 22,
+  "address": {
+    "street": "Bukot Circle",
+    "city": "Mipibgur",
+    "state": "IL",
+    "zip": "90844"
+  },
+  "contact": {
+    "phone": "(769) 608-8973",
+    "servicePhone": "800177842"
+  },
+  "birthday": "1978-11-19T04:43:46.030Z",
+  "ip": "162.124.81.56",
+  "foo": "bar",
+  "profile": {
+    "about": "Viza vin rulowwo if bedmav uj hawnumiv dutufne ehciime bopav domefev tatgosgu wa noike. Leezuole galgef wa weljew boker du beruh le hih timkebof huiz kic fo huume. Tiaw fasfirev tifahe vikemoj ke hersi iburas ecu rupzufpiz cem disehe ba woli rikzeew eba modir pat to.",
+    "bio": "Neciceto fecvevup sevaz vut natutfu nelar kuc oc dunzigog huti ke am uno jij wireh mor. Tem bawug ri kaper mapag unudara ovauz musuh zuwecte gu tofmerke irompo mu amzum zuhit mebiz huj. Pemiw puw pumnuin ma juaczis kinsovoc dojzuwap bemtad gawuasu hetuclav tupa gi filjeat lem kujligis akovad wopuwzom sizew."
+  },
+  "apiKey": "cc60f7365e51e8f875fd0cf3845a9b7344acede90be71aaaa0cf145a052da8c5",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}
