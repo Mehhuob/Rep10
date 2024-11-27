@@ -1,0 +1,26 @@
+{
+  "name": "Laura Kim",
+  "age": 44,
+  "address": {
+    "street": "Vaipe Boulevard",
+    "city": "Nunusa",
+    "state": "GA",
+    "zip": "60183"
+  },
+  "contact": {
+    "phone": "(830) 250-6821",
+    "servicePhone": "800815652"
+  },
+  "birthday": "1973-11-21T06:36:37.017Z",
+  "ip": "153.117.83.243",
+  "foo": "bar",
+  "profile": {
+    "about": "Ho ediug omise egede gi cu cuddu najigu vev gabopido bohotu daw. Gobtofje asoartet dujazaj nusejif megav pohif rudoh canmosic esvoih la ra kompez digfacwus. Semugav iz serije ke mihdol neh ze modwimob daw gomo unerid fu setazlo mamew zen haji itwabfo. Ripilmob dafvaniw osiwepo ubke ibo viajah jebwah acaohimin hemu lonidzes ve wad erelicuv turom minuvheh. Ak vezukfut ziror semu vigi dapotwi ze wobijo gijmuv nilon johveg vupa rahso luwlij puujaso zi. Egseuj afejo sa fu cul huumoro ibaufca si icupa nargalvo gi kaowabiv bus ventiz. Rat ji edo ot oguegiifa pewam azkucbof imoij fu wilcif uvu mo.",
+    "bio": "Nuwufo wa besze vepwe zetvesa zo pitu ike ho wefku ratrar isi lagdokgo. Kedmu jovdajcel tu zuvegohu jowacu uwekepaj ow ente rolivig ta roptiez lamabpa dod baf lel ciiz. Pe bokdeb julor bape elraik rolreat fiduv lavpeac jevpod idawu zosca rok narfev lemfo rodiopu. Soc useave ikofaf valwasal ikes nokufkal dicle eckiovi ruslewa fulrebzim izuri nudpu wu mu. Kefo acfe ro tamzas ge juekeez tacojo vommogjuk ketceduz jivomo pilesbo no nefdowih vogid zop vabac rufci. Rufwoj adborke sesi oko dokin aj mi lanpup pi vu cawuma zaki wosen zapgovfug toewuli tarav enodo odsek."
+  },
+  "apiKey": "50a642972ede2ad81eb4d440c02893c0e8cb017ece3ae014d4e195ce79400543",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
