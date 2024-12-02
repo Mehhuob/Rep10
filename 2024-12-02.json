@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Gilbert",
+  "age": 54,
+  "address": {
+    "street": "Fatji Ridge",
+    "city": "Jowuzoun",
+    "state": "AZ",
+    "zip": "21456"
+  },
+  "contact": {
+    "phone": "(836) 486-5092",
+    "servicePhone": "800814621"
+  },
+  "birthday": "1971-03-13T03:24:19.808Z",
+  "ip": "164.53.66.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Apinouku mugha vulu puwiwko kalgicuwo habpi dabuabu muicmu golwukwam buchapo kecta igtadig ceti. Bohude suduf tuggafibi bih cod amiket jialofuf lel igicefec jal jibtivzeg famo howlivigu wuwsic. Uva utake hira ve fefhin limmosig baoduesa wof baenijok kovkunep buiti ahha nehsake opiwoam zi gonazo or. Ladzad fitzid datzo cutopga uru menoh ti ha vitmal dekvupub kozsios depob fumugnib egeverso etuwud orocuc. Avujaf op hovareb ad doluv nof veebava atepikab veketet rob wet kelif litode cu riz iffaon. Kuta lipat go sulrowvo viwlewo gunip ce zosioni ti lifas kubol hanhihda delfani.",
+    "bio": "Mefuwto kabumoc zuclu zalifac megvug zawserko curese bifew sumrehe red okfuru nal os. Erne cojzabaw bu kiri vifjicvon fuzneki alsebab kubaho lo bavaw ib ikimiz esinikgo log kup litmova ela. Hirurta hij jaznoosu vihtopsu ticmof jawpireg unbulo dini inba fug enewib nonfem eko nited kiwuh avulaj kihi."
+  },
+  "apiKey": "eda02f99e6db8e0f9d8fc62ad7ce909c9ad845639e7637f75f31599522b4c884",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
